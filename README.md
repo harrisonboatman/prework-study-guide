@@ -1,5 +1,3 @@
-# prework-study-guide
-A study guide for course prework
 # Prework-study-guide webpage
 
 ## Description
